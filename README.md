@@ -47,10 +47,6 @@ You can modify the code, experiment with different stocks, or adjust the model p
 
 The project generates various visualizations, including historical stock prices, moving averages, daily returns, correlations, risk analysis, and predicted prices. These visualizations help in understanding the trends and patterns in stock prices and making informed investment decisions.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - The project utilizes the pandas, numpy, matplotlib, seaborn, yfinance, and tensorflow libraries.
